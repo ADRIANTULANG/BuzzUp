@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99294653996",
+    "project_id": "buzzup-d063d",
+    "storage_bucket": "buzzup-d063d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99294653996:android:261e1411c7b3e65bfaeb89",
+        "android_client_info": {
+          "package_name": "com.example.buzzup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99294653996-07nphejqopbtrq4pbmnngi52bb5bgfbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6VoEnD3f6IMBUCqDME4vZVCiNld3EQoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99294653996-07nphejqopbtrq4pbmnngi52bb5bgfbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
